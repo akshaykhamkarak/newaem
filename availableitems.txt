@@ -1,0 +1,5 @@
+biscuit,10,15
+chocolate,10,20
+cake,10,10
+fruit,5,20
+ 
